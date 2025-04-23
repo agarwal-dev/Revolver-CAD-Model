@@ -1,47 +1,39 @@
-# 🔫 Revolver CAD Model
+# Revolver CAD Model
 
-This project contains a **visually accurate 3D CAD model** of a revolver created using **SolidWorks**. The model is built for visual demonstration and design presentation purposes. It replicates the external features of a typical revolver but is **not mechanically functional**.
+This repository contains a detailed 3D CAD model of a revolver created using SolidWorks. The model accurately represents the external structure and major components of a traditional revolver, intended for design presentation, rendering, and educational purposes.
 
-## 📌 Project Overview
+## Project Overview
 
-- ✅ Realistic external geometry
-- ❌ No internal mechanical functionality
-- 🎯 Intended for concept display, renders, or educational references
+This project was developed as part of a design exploration using SolidWorks. The model focuses on visual accuracy, replicating the key elements of a standard revolver.
 
-## 📁 Files Included
+## Files Included
 
 - `.SLDPRT` – Individual part files
 - `.SLDASM` – Complete assembly file
-- `.PNG`/`.JPG` – Rendered images and screenshots
-- (Optional) `.MP4` or `.GIF` – Demo or exploded view animation
+- Rendered image and video
 
-## 🧩 Components Modeled
+## Components Modeled
 
 - Frame  
 - Cylinder  
 - Barrel  
 - Trigger  
-- Grip  
+- Bullet  
 
-## 🛠 Tools & Software
+## Tools and Software
 
-- **SolidWorks 2023**
-- Assembly module for part integration
-- Appearances & rendering tools for visual output
+- SolidWorks 2023  
+- Assembly tools for model integration  
+- Rendering tools for visual output
 
-## 📝 Notes
+## Preview
 
-- The model does **not** simulate real-world revolver mechanics.
-- All components are dimensioned and assembled for visual correctness only.
-- This project is part of a personal learning and design exploration initiative.
+![Screenshot 2025-01-22 114627](https://github.com/user-attachments/assets/48fa7b13-c28c-42a2-a8a3-6f17ccf31a23)
 
-## 📸 Preview
+https://github.com/user-attachments/assets/927e506a-2e61-4d0c-b81b-8e1993d0f3d0
 
-(Add images or link to rendered previews/demo video here)
+## License
 
-## 📬 Contact
+This project is provided for educational and non-commercial use. All designs are original and intended for learning and presentation purposes.
 
-For questions or collaboration, feel free to reach out via [GitHub Issues](https://github.com/yourusername/revolver-cad-model/issues).
-
----
 
